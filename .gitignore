@@ -1,26 +1,19 @@
 
-# Python
+# Python virtual environment
+/backend/student/
+
+# Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-student/
-venv/
-.env
 
-# Angular / Ionic
+# Ionic / Angular dependencies
 node_modules/
 dist/
 .angular/
-www/
+
+# Environment files
+.env
+.env.*
 
 # IDE
 .vscode/
-
-# Environment files
-.env.local
-.env.production
-
-# OS
-.DS_Store
-Thumbs.db

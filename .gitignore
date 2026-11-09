@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+student/
+venv/
+.env
+
+# Angular / Ionic
+node_modules/
+dist/
+.angular/
+www/
+
+# IDE
+.vscode/
+
+# Environment files
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
